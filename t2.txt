@@ -1,0 +1,1 @@
+git config : changed git user.name and user.email
